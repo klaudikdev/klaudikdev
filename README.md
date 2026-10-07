@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://klaudik.com"><img src="https://klaudik.com/klaudikcom-logo.png" alt="Klaudik" height="48"></a>
+  <a href="https://klaudik.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/klaudik-dark.png">
+      <img src="assets/klaudik-light.png" alt="Klaudik" height="48">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
